@@ -1,8 +1,8 @@
-# Note Everything
+# our-unique-repo
 
 #Note Everything for Windows
 A user-friendly free and open source alternative for existing text editor Notepad.
-See a demo of how Notepad works: 
+See a demo of how Notepad works: https://youtu.be/jaRaXBiDNj8
 
 # Building
 	Code has been done in Visual Studio Code.
