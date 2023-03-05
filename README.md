@@ -1,4 +1,4 @@
-# our-unique-repo
+# Note Everything
 
 #Note Everything for Windows
 A user-friendly free and open source alternative for existing text editor Notepad.
